@@ -1,0 +1,1849 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &8259773220405507985
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 102212665791152425}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d36cfb63bfe42bf488ae57060a5f84bd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  time: 1
+  endY: 120
+  isLeft: 0
+  isCurve: 1
+  spriteAfterCurve: {fileID: 21300002, guid: 7c17b09f696eb8e4abb5958b4a436cb9, type: 3}
+--- !u!114 &3502256991840381839
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 406231695374593256}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d36cfb63bfe42bf488ae57060a5f84bd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  time: 1
+  endY: 120
+  isLeft: 1
+  isCurve: 1
+  spriteAfterCurve: {fileID: 21300004, guid: 7c17b09f696eb8e4abb5958b4a436cb9, type: 3}
+--- !u!114 &1603101669053367984
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 764153440565775543}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d36cfb63bfe42bf488ae57060a5f84bd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  time: 1
+  endY: 120
+  isLeft: 0
+  isCurve: 1
+  spriteAfterCurve: {fileID: 21300002, guid: 7c17b09f696eb8e4abb5958b4a436cb9, type: 3}
+--- !u!114 &959524858026537560
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1060143943062723631}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d36cfb63bfe42bf488ae57060a5f84bd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  time: 1
+  endY: 120
+  isLeft: 1
+  isCurve: 1
+  spriteAfterCurve: {fileID: 21300000, guid: 7c17b09f696eb8e4abb5958b4a436cb9, type: 3}
+--- !u!114 &8296413878956909810
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1880842226786704759}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d36cfb63bfe42bf488ae57060a5f84bd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  time: 1
+  endY: 120
+  isLeft: 0
+  isCurve: 1
+  spriteAfterCurve: {fileID: 21300002, guid: 7c17b09f696eb8e4abb5958b4a436cb9, type: 3}
+--- !u!114 &9113316487193634701
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3456050893708094781}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d36cfb63bfe42bf488ae57060a5f84bd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  time: 1
+  endY: 120
+  isLeft: 0
+  isCurve: 1
+  spriteAfterCurve: {fileID: 21300002, guid: 7c17b09f696eb8e4abb5958b4a436cb9, type: 3}
+--- !u!1 &3964744354647442385
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7890610655833993449}
+  m_Layer: 0
+  m_Name: Wave Faery Side TwoLine
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7890610655833993449
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3964744354647442385}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 8531250092420717291}
+  - {fileID: 6526887810636051946}
+  - {fileID: 4536471441399331370}
+  - {fileID: 406231695374233800}
+  - {fileID: 7618397331681684431}
+  - {fileID: 7588096610790971146}
+  - {fileID: 5113061551460148357}
+  - {fileID: 3456050893708063005}
+  - {fileID: 764153440566202519}
+  - {fileID: 102212665790733577}
+  - {fileID: 4626692021835236261}
+  - {fileID: 1880842226786533719}
+  - {fileID: 6019376813775326238}
+  - {fileID: 6679436030662037478}
+  - {fileID: 4600850144196433258}
+  - {fileID: 1060143943063076879}
+  - {fileID: 4471174807377443814}
+  - {fileID: 8267115680020235180}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8793153226059623797
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4471174807377930182}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d36cfb63bfe42bf488ae57060a5f84bd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  time: 1
+  endY: 120
+  isLeft: 1
+  isCurve: 1
+  spriteAfterCurve: {fileID: 21300000, guid: 7c17b09f696eb8e4abb5958b4a436cb9, type: 3}
+--- !u!114 &5481698769711136541
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4536471441398834698}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d36cfb63bfe42bf488ae57060a5f84bd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  time: 1
+  endY: 120
+  isLeft: 1
+  isCurve: 1
+  spriteAfterCurve: {fileID: 21300004, guid: 7c17b09f696eb8e4abb5958b4a436cb9, type: 3}
+--- !u!114 &3940750042408764187
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4600850144196659530}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d36cfb63bfe42bf488ae57060a5f84bd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  time: 1
+  endY: 120
+  isLeft: 1
+  isCurve: 1
+  spriteAfterCurve: {fileID: 21300000, guid: 7c17b09f696eb8e4abb5958b4a436cb9, type: 3}
+--- !u!114 &2997686155843314889
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4626692021834751877}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d36cfb63bfe42bf488ae57060a5f84bd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  time: 1
+  endY: 120
+  isLeft: 0
+  isCurve: 1
+  spriteAfterCurve: {fileID: 21300002, guid: 7c17b09f696eb8e4abb5958b4a436cb9, type: 3}
+--- !u!114 &4619797715094834783
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5113061551459989669}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d36cfb63bfe42bf488ae57060a5f84bd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  time: 1
+  endY: 120
+  isLeft: 0
+  isCurve: 1
+  spriteAfterCurve: {fileID: 21300002, guid: 7c17b09f696eb8e4abb5958b4a436cb9, type: 3}
+--- !u!114 &3017494232703571632
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6019376813775163454}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d36cfb63bfe42bf488ae57060a5f84bd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  time: 1
+  endY: 120
+  isLeft: 1
+  isCurve: 1
+  spriteAfterCurve: {fileID: 21300000, guid: 7c17b09f696eb8e4abb5958b4a436cb9, type: 3}
+--- !u!114 &7888339844047819548
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6526887810636343754}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d36cfb63bfe42bf488ae57060a5f84bd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  time: 1
+  endY: 120
+  isLeft: 1
+  isCurve: 1
+  spriteAfterCurve: {fileID: 21300004, guid: 7c17b09f696eb8e4abb5958b4a436cb9, type: 3}
+--- !u!114 &5462438467260429439
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6679436030661743558}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d36cfb63bfe42bf488ae57060a5f84bd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  time: 1
+  endY: 120
+  isLeft: 1
+  isCurve: 1
+  spriteAfterCurve: {fileID: 21300000, guid: 7c17b09f696eb8e4abb5958b4a436cb9, type: 3}
+--- !u!114 &7840776794591245531
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7588096610791131946}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d36cfb63bfe42bf488ae57060a5f84bd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  time: 1
+  endY: 120
+  isLeft: 1
+  isCurve: 1
+  spriteAfterCurve: {fileID: 21300004, guid: 7c17b09f696eb8e4abb5958b4a436cb9, type: 3}
+--- !u!114 &6775850687990832769
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7618397331681720303}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d36cfb63bfe42bf488ae57060a5f84bd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  time: 1
+  endY: 120
+  isLeft: 1
+  isCurve: 1
+  spriteAfterCurve: {fileID: 21300004, guid: 7c17b09f696eb8e4abb5958b4a436cb9, type: 3}
+--- !u!114 &5248330306569401414
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8267115680020340620}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d36cfb63bfe42bf488ae57060a5f84bd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  time: 1
+  endY: 120
+  isLeft: 1
+  isCurve: 1
+  spriteAfterCurve: {fileID: 21300000, guid: 7c17b09f696eb8e4abb5958b4a436cb9, type: 3}
+--- !u!114 &6232310983042556857
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8531250092421072587}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d36cfb63bfe42bf488ae57060a5f84bd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  time: 1
+  endY: 120
+  isLeft: 1
+  isCurve: 1
+  spriteAfterCurve: {fileID: 21300004, guid: 7c17b09f696eb8e4abb5958b4a436cb9, type: 3}
+--- !u!1001 &805457234151896349
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 7890610655833993449}
+    m_Modifications:
+    - target: {fileID: 5888921555784309975, guid: 7bfd887ede054c546b6d40beef944423,
+        type: 3}
+      propertyPath: m_Name
+      value: Faery  Wave Side TwoLine Many 2 Variant (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5888921555784532215, guid: 7bfd887ede054c546b6d40beef944423,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -330
+      objectReference: {fileID: 0}
+    - target: {fileID: 5888921555784532215, guid: 7bfd887ede054c546b6d40beef944423,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 450
+      objectReference: {fileID: 0}
+    - target: {fileID: 5888921555784532215, guid: 7bfd887ede054c546b6d40beef944423,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5888921555784532215, guid: 7bfd887ede054c546b6d40beef944423,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5888921555784532215, guid: 7bfd887ede054c546b6d40beef944423,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5888921555784532215, guid: 7bfd887ede054c546b6d40beef944423,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5888921555784532215, guid: 7bfd887ede054c546b6d40beef944423,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5888921555784532215, guid: 7bfd887ede054c546b6d40beef944423,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5888921555784532215, guid: 7bfd887ede054c546b6d40beef944423,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5888921555784532215, guid: 7bfd887ede054c546b6d40beef944423,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5888921555784532215, guid: 7bfd887ede054c546b6d40beef944423,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4909683748524785492, guid: 7bfd887ede054c546b6d40beef944423,
+        type: 3}
+      propertyPath: m_bulletSpeed
+      value: 400
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7bfd887ede054c546b6d40beef944423, type: 3}
+--- !u!1 &6526887810636343754 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5888921555784309975, guid: 7bfd887ede054c546b6d40beef944423,
+    type: 3}
+  m_PrefabInstance: {fileID: 805457234151896349}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &6526887810636051946 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5888921555784532215, guid: 7bfd887ede054c546b6d40beef944423,
+    type: 3}
+  m_PrefabInstance: {fileID: 805457234151896349}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1626888603004933667
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 7890610655833993449}
+    m_Modifications:
+    - target: {fileID: 5341763108638836197, guid: 582286a6b8e80c648957c2195fb48770,
+        type: 3}
+      propertyPath: m_Name
+      value: Faery Wave Side TwoLine 1 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5341763108638808517, guid: 582286a6b8e80c648957c2195fb48770,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -290
+      objectReference: {fileID: 0}
+    - target: {fileID: 5341763108638808517, guid: 582286a6b8e80c648957c2195fb48770,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 761
+      objectReference: {fileID: 0}
+    - target: {fileID: 5341763108638808517, guid: 582286a6b8e80c648957c2195fb48770,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5341763108638808517, guid: 582286a6b8e80c648957c2195fb48770,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5341763108638808517, guid: 582286a6b8e80c648957c2195fb48770,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5341763108638808517, guid: 582286a6b8e80c648957c2195fb48770,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5341763108638808517, guid: 582286a6b8e80c648957c2195fb48770,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5341763108638808517, guid: 582286a6b8e80c648957c2195fb48770,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 13
+      objectReference: {fileID: 0}
+    - target: {fileID: 5341763108638808517, guid: 582286a6b8e80c648957c2195fb48770,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5341763108638808517, guid: 582286a6b8e80c648957c2195fb48770,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5341763108638808517, guid: 582286a6b8e80c648957c2195fb48770,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 582286a6b8e80c648957c2195fb48770, type: 3}
+--- !u!4 &6679436030662037478 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5341763108638808517, guid: 582286a6b8e80c648957c2195fb48770,
+    type: 3}
+  m_PrefabInstance: {fileID: 1626888603004933667}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &6679436030661743558 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5341763108638836197, guid: 582286a6b8e80c648957c2195fb48770,
+    type: 3}
+  m_PrefabInstance: {fileID: 1626888603004933667}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1848972216012559835
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 7890610655833993449}
+    m_Modifications:
+    - target: {fileID: 5341763108638836197, guid: 582286a6b8e80c648957c2195fb48770,
+        type: 3}
+      propertyPath: m_Name
+      value: Faery Wave Side TwoLine 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5341763108638808517, guid: 582286a6b8e80c648957c2195fb48770,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -330
+      objectReference: {fileID: 0}
+    - target: {fileID: 5341763108638808517, guid: 582286a6b8e80c648957c2195fb48770,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 761
+      objectReference: {fileID: 0}
+    - target: {fileID: 5341763108638808517, guid: 582286a6b8e80c648957c2195fb48770,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5341763108638808517, guid: 582286a6b8e80c648957c2195fb48770,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5341763108638808517, guid: 582286a6b8e80c648957c2195fb48770,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5341763108638808517, guid: 582286a6b8e80c648957c2195fb48770,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5341763108638808517, guid: 582286a6b8e80c648957c2195fb48770,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5341763108638808517, guid: 582286a6b8e80c648957c2195fb48770,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 12
+      objectReference: {fileID: 0}
+    - target: {fileID: 5341763108638808517, guid: 582286a6b8e80c648957c2195fb48770,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5341763108638808517, guid: 582286a6b8e80c648957c2195fb48770,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5341763108638808517, guid: 582286a6b8e80c648957c2195fb48770,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 582286a6b8e80c648957c2195fb48770, type: 3}
+--- !u!1 &6019376813775163454 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5341763108638836197, guid: 582286a6b8e80c648957c2195fb48770,
+    type: 3}
+  m_PrefabInstance: {fileID: 1848972216012559835}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &6019376813775326238 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5341763108638808517, guid: 582286a6b8e80c648957c2195fb48770,
+    type: 3}
+  m_PrefabInstance: {fileID: 1848972216012559835}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &2872364410249992732
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 7890610655833993449}
+    m_Modifications:
+    - target: {fileID: 5888921555784309975, guid: 7bfd887ede054c546b6d40beef944423,
+        type: 3}
+      propertyPath: m_Name
+      value: Faery  Wave Side TwoLine Many 2 Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 5888921555784532215, guid: 7bfd887ede054c546b6d40beef944423,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -330
+      objectReference: {fileID: 0}
+    - target: {fileID: 5888921555784532215, guid: 7bfd887ede054c546b6d40beef944423,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 398.9748
+      objectReference: {fileID: 0}
+    - target: {fileID: 5888921555784532215, guid: 7bfd887ede054c546b6d40beef944423,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5888921555784532215, guid: 7bfd887ede054c546b6d40beef944423,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5888921555784532215, guid: 7bfd887ede054c546b6d40beef944423,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5888921555784532215, guid: 7bfd887ede054c546b6d40beef944423,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5888921555784532215, guid: 7bfd887ede054c546b6d40beef944423,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5888921555784532215, guid: 7bfd887ede054c546b6d40beef944423,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5888921555784532215, guid: 7bfd887ede054c546b6d40beef944423,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5888921555784532215, guid: 7bfd887ede054c546b6d40beef944423,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5888921555784532215, guid: 7bfd887ede054c546b6d40beef944423,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4909683748524785492, guid: 7bfd887ede054c546b6d40beef944423,
+        type: 3}
+      propertyPath: m_bulletSpeed
+      value: 400
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7bfd887ede054c546b6d40beef944423, type: 3}
+--- !u!1 &8531250092421072587 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5888921555784309975, guid: 7bfd887ede054c546b6d40beef944423,
+    type: 3}
+  m_PrefabInstance: {fileID: 2872364410249992732}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &8531250092420717291 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5888921555784532215, guid: 7bfd887ede054c546b6d40beef944423,
+    type: 3}
+  m_PrefabInstance: {fileID: 2872364410249992732}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4035325279169030968
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 7890610655833993449}
+    m_Modifications:
+    - target: {fileID: 5888921555784309975, guid: 7bfd887ede054c546b6d40beef944423,
+        type: 3}
+      propertyPath: m_Name
+      value: Faery  Wave Side TwoLine Many 2 Variant (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5888921555784532215, guid: 7bfd887ede054c546b6d40beef944423,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -290
+      objectReference: {fileID: 0}
+    - target: {fileID: 5888921555784532215, guid: 7bfd887ede054c546b6d40beef944423,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 450
+      objectReference: {fileID: 0}
+    - target: {fileID: 5888921555784532215, guid: 7bfd887ede054c546b6d40beef944423,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5888921555784532215, guid: 7bfd887ede054c546b6d40beef944423,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5888921555784532215, guid: 7bfd887ede054c546b6d40beef944423,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5888921555784532215, guid: 7bfd887ede054c546b6d40beef944423,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5888921555784532215, guid: 7bfd887ede054c546b6d40beef944423,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5888921555784532215, guid: 7bfd887ede054c546b6d40beef944423,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 5888921555784532215, guid: 7bfd887ede054c546b6d40beef944423,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5888921555784532215, guid: 7bfd887ede054c546b6d40beef944423,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5888921555784532215, guid: 7bfd887ede054c546b6d40beef944423,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4909683748524785492, guid: 7bfd887ede054c546b6d40beef944423,
+        type: 3}
+      propertyPath: m_bulletSpeed
+      value: 400
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7bfd887ede054c546b6d40beef944423, type: 3}
+--- !u!4 &7618397331681684431 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5888921555784532215, guid: 7bfd887ede054c546b6d40beef944423,
+    type: 3}
+  m_PrefabInstance: {fileID: 4035325279169030968}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &7618397331681720303 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5888921555784309975, guid: 7bfd887ede054c546b6d40beef944423,
+    type: 3}
+  m_PrefabInstance: {fileID: 4035325279169030968}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4078977952545036905
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 7890610655833993449}
+    m_Modifications:
+    - target: {fileID: 5341763108638836197, guid: 582286a6b8e80c648957c2195fb48770,
+        type: 3}
+      propertyPath: m_Name
+      value: Faery Wave Side TwoLine 1 (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5341763108638808517, guid: 582286a6b8e80c648957c2195fb48770,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -290
+      objectReference: {fileID: 0}
+    - target: {fileID: 5341763108638808517, guid: 582286a6b8e80c648957c2195fb48770,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 811
+      objectReference: {fileID: 0}
+    - target: {fileID: 5341763108638808517, guid: 582286a6b8e80c648957c2195fb48770,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5341763108638808517, guid: 582286a6b8e80c648957c2195fb48770,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5341763108638808517, guid: 582286a6b8e80c648957c2195fb48770,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5341763108638808517, guid: 582286a6b8e80c648957c2195fb48770,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5341763108638808517, guid: 582286a6b8e80c648957c2195fb48770,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5341763108638808517, guid: 582286a6b8e80c648957c2195fb48770,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 17
+      objectReference: {fileID: 0}
+    - target: {fileID: 5341763108638808517, guid: 582286a6b8e80c648957c2195fb48770,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5341763108638808517, guid: 582286a6b8e80c648957c2195fb48770,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5341763108638808517, guid: 582286a6b8e80c648957c2195fb48770,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 582286a6b8e80c648957c2195fb48770, type: 3}
+--- !u!1 &8267115680020340620 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5341763108638836197, guid: 582286a6b8e80c648957c2195fb48770,
+    type: 3}
+  m_PrefabInstance: {fileID: 4078977952545036905}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &8267115680020235180 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5341763108638808517, guid: 582286a6b8e80c648957c2195fb48770,
+    type: 3}
+  m_PrefabInstance: {fileID: 4078977952545036905}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4089784423083394345
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 7890610655833993449}
+    m_Modifications:
+    - target: {fileID: 8715761202922773164, guid: 7d3a5de715aea6d4e92f87935c52f4e9,
+        type: 3}
+      propertyPath: m_Name
+      value: Faery Wave Side TwoLine Many 3 Variant (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8715761202922276492, guid: 7d3a5de715aea6d4e92f87935c52f4e9,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 125
+      objectReference: {fileID: 0}
+    - target: {fileID: 8715761202922276492, guid: 7d3a5de715aea6d4e92f87935c52f4e9,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 600
+      objectReference: {fileID: 0}
+    - target: {fileID: 8715761202922276492, guid: 7d3a5de715aea6d4e92f87935c52f4e9,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8715761202922276492, guid: 7d3a5de715aea6d4e92f87935c52f4e9,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8715761202922276492, guid: 7d3a5de715aea6d4e92f87935c52f4e9,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8715761202922276492, guid: 7d3a5de715aea6d4e92f87935c52f4e9,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8715761202922276492, guid: 7d3a5de715aea6d4e92f87935c52f4e9,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8715761202922276492, guid: 7d3a5de715aea6d4e92f87935c52f4e9,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 8715761202922276492, guid: 7d3a5de715aea6d4e92f87935c52f4e9,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8715761202922276492, guid: 7d3a5de715aea6d4e92f87935c52f4e9,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8715761202922276492, guid: 7d3a5de715aea6d4e92f87935c52f4e9,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7d3a5de715aea6d4e92f87935c52f4e9, type: 3}
+--- !u!4 &4626692021835236261 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8715761202922276492, guid: 7d3a5de715aea6d4e92f87935c52f4e9,
+    type: 3}
+  m_PrefabInstance: {fileID: 4089784423083394345}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &4626692021834751877 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8715761202922773164, guid: 7d3a5de715aea6d4e92f87935c52f4e9,
+    type: 3}
+  m_PrefabInstance: {fileID: 4089784423083394345}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4105017169302460413
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 7890610655833993449}
+    m_Modifications:
+    - target: {fileID: 5888921555784309975, guid: 7bfd887ede054c546b6d40beef944423,
+        type: 3}
+      propertyPath: m_Name
+      value: Faery  Wave Side TwoLine Many 2 Variant (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5888921555784532215, guid: 7bfd887ede054c546b6d40beef944423,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -290
+      objectReference: {fileID: 0}
+    - target: {fileID: 5888921555784532215, guid: 7bfd887ede054c546b6d40beef944423,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 399
+      objectReference: {fileID: 0}
+    - target: {fileID: 5888921555784532215, guid: 7bfd887ede054c546b6d40beef944423,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5888921555784532215, guid: 7bfd887ede054c546b6d40beef944423,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5888921555784532215, guid: 7bfd887ede054c546b6d40beef944423,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5888921555784532215, guid: 7bfd887ede054c546b6d40beef944423,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5888921555784532215, guid: 7bfd887ede054c546b6d40beef944423,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5888921555784532215, guid: 7bfd887ede054c546b6d40beef944423,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 5888921555784532215, guid: 7bfd887ede054c546b6d40beef944423,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5888921555784532215, guid: 7bfd887ede054c546b6d40beef944423,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5888921555784532215, guid: 7bfd887ede054c546b6d40beef944423,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4909683748524785492, guid: 7bfd887ede054c546b6d40beef944423,
+        type: 3}
+      propertyPath: m_bulletSpeed
+      value: 400
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7bfd887ede054c546b6d40beef944423, type: 3}
+--- !u!4 &7588096610790971146 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5888921555784532215, guid: 7bfd887ede054c546b6d40beef944423,
+    type: 3}
+  m_PrefabInstance: {fileID: 4105017169302460413}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &7588096610791131946 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5888921555784309975, guid: 7bfd887ede054c546b6d40beef944423,
+    type: 3}
+  m_PrefabInstance: {fileID: 4105017169302460413}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4468033479366222345
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 7890610655833993449}
+    m_Modifications:
+    - target: {fileID: 8715761202922773164, guid: 7d3a5de715aea6d4e92f87935c52f4e9,
+        type: 3}
+      propertyPath: m_Name
+      value: Faery Wave Side TwoLine Many 3 Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 8715761202922276492, guid: 7d3a5de715aea6d4e92f87935c52f4e9,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 125
+      objectReference: {fileID: 0}
+    - target: {fileID: 8715761202922276492, guid: 7d3a5de715aea6d4e92f87935c52f4e9,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 699.9
+      objectReference: {fileID: 0}
+    - target: {fileID: 8715761202922276492, guid: 7d3a5de715aea6d4e92f87935c52f4e9,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8715761202922276492, guid: 7d3a5de715aea6d4e92f87935c52f4e9,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8715761202922276492, guid: 7d3a5de715aea6d4e92f87935c52f4e9,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8715761202922276492, guid: 7d3a5de715aea6d4e92f87935c52f4e9,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8715761202922276492, guid: 7d3a5de715aea6d4e92f87935c52f4e9,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8715761202922276492, guid: 7d3a5de715aea6d4e92f87935c52f4e9,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 8715761202922276492, guid: 7d3a5de715aea6d4e92f87935c52f4e9,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8715761202922276492, guid: 7d3a5de715aea6d4e92f87935c52f4e9,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8715761202922276492, guid: 7d3a5de715aea6d4e92f87935c52f4e9,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7885678761829349679, guid: 7d3a5de715aea6d4e92f87935c52f4e9,
+        type: 3}
+      propertyPath: m_bulletSpeed
+      value: 400
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7d3a5de715aea6d4e92f87935c52f4e9, type: 3}
+--- !u!1 &5113061551459989669 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8715761202922773164, guid: 7d3a5de715aea6d4e92f87935c52f4e9,
+    type: 3}
+  m_PrefabInstance: {fileID: 4468033479366222345}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &5113061551460148357 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8715761202922276492, guid: 7d3a5de715aea6d4e92f87935c52f4e9,
+    type: 3}
+  m_PrefabInstance: {fileID: 4468033479366222345}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4942597728547723722
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 7890610655833993449}
+    m_Modifications:
+    - target: {fileID: 5341763108638836197, guid: 582286a6b8e80c648957c2195fb48770,
+        type: 3}
+      propertyPath: m_Name
+      value: Faery Wave Side TwoLine 1 (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5341763108638808517, guid: 582286a6b8e80c648957c2195fb48770,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -289
+      objectReference: {fileID: 0}
+    - target: {fileID: 5341763108638808517, guid: 582286a6b8e80c648957c2195fb48770,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 861
+      objectReference: {fileID: 0}
+    - target: {fileID: 5341763108638808517, guid: 582286a6b8e80c648957c2195fb48770,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5341763108638808517, guid: 582286a6b8e80c648957c2195fb48770,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5341763108638808517, guid: 582286a6b8e80c648957c2195fb48770,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5341763108638808517, guid: 582286a6b8e80c648957c2195fb48770,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5341763108638808517, guid: 582286a6b8e80c648957c2195fb48770,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5341763108638808517, guid: 582286a6b8e80c648957c2195fb48770,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 15
+      objectReference: {fileID: 0}
+    - target: {fileID: 5341763108638808517, guid: 582286a6b8e80c648957c2195fb48770,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5341763108638808517, guid: 582286a6b8e80c648957c2195fb48770,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5341763108638808517, guid: 582286a6b8e80c648957c2195fb48770,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 582286a6b8e80c648957c2195fb48770, type: 3}
+--- !u!1 &1060143943062723631 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5341763108638836197, guid: 582286a6b8e80c648957c2195fb48770,
+    type: 3}
+  m_PrefabInstance: {fileID: 4942597728547723722}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &1060143943063076879 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5341763108638808517, guid: 582286a6b8e80c648957c2195fb48770,
+    type: 3}
+  m_PrefabInstance: {fileID: 4942597728547723722}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6060331514819031103
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 7890610655833993449}
+    m_Modifications:
+    - target: {fileID: 5888921555784309975, guid: 7bfd887ede054c546b6d40beef944423,
+        type: 3}
+      propertyPath: m_Name
+      value: Faery  Wave Side TwoLine Many 2 Variant (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5888921555784532215, guid: 7bfd887ede054c546b6d40beef944423,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -290
+      objectReference: {fileID: 0}
+    - target: {fileID: 5888921555784532215, guid: 7bfd887ede054c546b6d40beef944423,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 499
+      objectReference: {fileID: 0}
+    - target: {fileID: 5888921555784532215, guid: 7bfd887ede054c546b6d40beef944423,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5888921555784532215, guid: 7bfd887ede054c546b6d40beef944423,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5888921555784532215, guid: 7bfd887ede054c546b6d40beef944423,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5888921555784532215, guid: 7bfd887ede054c546b6d40beef944423,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5888921555784532215, guid: 7bfd887ede054c546b6d40beef944423,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5888921555784532215, guid: 7bfd887ede054c546b6d40beef944423,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 5888921555784532215, guid: 7bfd887ede054c546b6d40beef944423,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5888921555784532215, guid: 7bfd887ede054c546b6d40beef944423,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5888921555784532215, guid: 7bfd887ede054c546b6d40beef944423,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4909683748524785492, guid: 7bfd887ede054c546b6d40beef944423,
+        type: 3}
+      propertyPath: m_bulletSpeed
+      value: 400
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7bfd887ede054c546b6d40beef944423, type: 3}
+--- !u!1 &406231695374593256 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5888921555784309975, guid: 7bfd887ede054c546b6d40beef944423,
+    type: 3}
+  m_PrefabInstance: {fileID: 6060331514819031103}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &406231695374233800 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5888921555784532215, guid: 7bfd887ede054c546b6d40beef944423,
+    type: 3}
+  m_PrefabInstance: {fileID: 6060331514819031103}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6269786218619451281
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 7890610655833993449}
+    m_Modifications:
+    - target: {fileID: 8715761202922773164, guid: 7d3a5de715aea6d4e92f87935c52f4e9,
+        type: 3}
+      propertyPath: m_Name
+      value: Faery Wave Side TwoLine Many 3 Variant (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8715761202922276492, guid: 7d3a5de715aea6d4e92f87935c52f4e9,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 85
+      objectReference: {fileID: 0}
+    - target: {fileID: 8715761202922276492, guid: 7d3a5de715aea6d4e92f87935c52f4e9,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 600
+      objectReference: {fileID: 0}
+    - target: {fileID: 8715761202922276492, guid: 7d3a5de715aea6d4e92f87935c52f4e9,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8715761202922276492, guid: 7d3a5de715aea6d4e92f87935c52f4e9,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8715761202922276492, guid: 7d3a5de715aea6d4e92f87935c52f4e9,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8715761202922276492, guid: 7d3a5de715aea6d4e92f87935c52f4e9,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8715761202922276492, guid: 7d3a5de715aea6d4e92f87935c52f4e9,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8715761202922276492, guid: 7d3a5de715aea6d4e92f87935c52f4e9,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 8715761202922276492, guid: 7d3a5de715aea6d4e92f87935c52f4e9,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8715761202922276492, guid: 7d3a5de715aea6d4e92f87935c52f4e9,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8715761202922276492, guid: 7d3a5de715aea6d4e92f87935c52f4e9,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7d3a5de715aea6d4e92f87935c52f4e9, type: 3}
+--- !u!1 &3456050893708094781 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8715761202922773164, guid: 7d3a5de715aea6d4e92f87935c52f4e9,
+    type: 3}
+  m_PrefabInstance: {fileID: 6269786218619451281}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &3456050893708063005 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8715761202922276492, guid: 7d3a5de715aea6d4e92f87935c52f4e9,
+    type: 3}
+  m_PrefabInstance: {fileID: 6269786218619451281}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &7128778920546715611
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 7890610655833993449}
+    m_Modifications:
+    - target: {fileID: 8715761202922773164, guid: 7d3a5de715aea6d4e92f87935c52f4e9,
+        type: 3}
+      propertyPath: m_Name
+      value: Faery Wave Side TwoLine Many 3 Variant (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8715761202922276492, guid: 7d3a5de715aea6d4e92f87935c52f4e9,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 125
+      objectReference: {fileID: 0}
+    - target: {fileID: 8715761202922276492, guid: 7d3a5de715aea6d4e92f87935c52f4e9,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 651
+      objectReference: {fileID: 0}
+    - target: {fileID: 8715761202922276492, guid: 7d3a5de715aea6d4e92f87935c52f4e9,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8715761202922276492, guid: 7d3a5de715aea6d4e92f87935c52f4e9,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8715761202922276492, guid: 7d3a5de715aea6d4e92f87935c52f4e9,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8715761202922276492, guid: 7d3a5de715aea6d4e92f87935c52f4e9,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8715761202922276492, guid: 7d3a5de715aea6d4e92f87935c52f4e9,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8715761202922276492, guid: 7d3a5de715aea6d4e92f87935c52f4e9,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 11
+      objectReference: {fileID: 0}
+    - target: {fileID: 8715761202922276492, guid: 7d3a5de715aea6d4e92f87935c52f4e9,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8715761202922276492, guid: 7d3a5de715aea6d4e92f87935c52f4e9,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8715761202922276492, guid: 7d3a5de715aea6d4e92f87935c52f4e9,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7d3a5de715aea6d4e92f87935c52f4e9, type: 3}
+--- !u!4 &1880842226786533719 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8715761202922276492, guid: 7d3a5de715aea6d4e92f87935c52f4e9,
+    type: 3}
+  m_PrefabInstance: {fileID: 7128778920546715611}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &1880842226786704759 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8715761202922773164, guid: 7d3a5de715aea6d4e92f87935c52f4e9,
+    type: 3}
+  m_PrefabInstance: {fileID: 7128778920546715611}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &8020187774934203101
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 7890610655833993449}
+    m_Modifications:
+    - target: {fileID: 5888921555784309975, guid: 7bfd887ede054c546b6d40beef944423,
+        type: 3}
+      propertyPath: m_Name
+      value: Faery  Wave Side TwoLine Many 2 Variant (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5888921555784532215, guid: 7bfd887ede054c546b6d40beef944423,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -330
+      objectReference: {fileID: 0}
+    - target: {fileID: 5888921555784532215, guid: 7bfd887ede054c546b6d40beef944423,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 499
+      objectReference: {fileID: 0}
+    - target: {fileID: 5888921555784532215, guid: 7bfd887ede054c546b6d40beef944423,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5888921555784532215, guid: 7bfd887ede054c546b6d40beef944423,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5888921555784532215, guid: 7bfd887ede054c546b6d40beef944423,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5888921555784532215, guid: 7bfd887ede054c546b6d40beef944423,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5888921555784532215, guid: 7bfd887ede054c546b6d40beef944423,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5888921555784532215, guid: 7bfd887ede054c546b6d40beef944423,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5888921555784532215, guid: 7bfd887ede054c546b6d40beef944423,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5888921555784532215, guid: 7bfd887ede054c546b6d40beef944423,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5888921555784532215, guid: 7bfd887ede054c546b6d40beef944423,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4909683748524785492, guid: 7bfd887ede054c546b6d40beef944423,
+        type: 3}
+      propertyPath: m_bulletSpeed
+      value: 400
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7bfd887ede054c546b6d40beef944423, type: 3}
+--- !u!4 &4536471441399331370 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5888921555784532215, guid: 7bfd887ede054c546b6d40beef944423,
+    type: 3}
+  m_PrefabInstance: {fileID: 8020187774934203101}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &4536471441398834698 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5888921555784309975, guid: 7bfd887ede054c546b6d40beef944423,
+    type: 3}
+  m_PrefabInstance: {fileID: 8020187774934203101}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &8245610584234989083
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 7890610655833993449}
+    m_Modifications:
+    - target: {fileID: 8715761202922773164, guid: 7d3a5de715aea6d4e92f87935c52f4e9,
+        type: 3}
+      propertyPath: m_Name
+      value: Faery Wave Side TwoLine Many 3 Variant (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8715761202922276492, guid: 7d3a5de715aea6d4e92f87935c52f4e9,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 85
+      objectReference: {fileID: 0}
+    - target: {fileID: 8715761202922276492, guid: 7d3a5de715aea6d4e92f87935c52f4e9,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 649
+      objectReference: {fileID: 0}
+    - target: {fileID: 8715761202922276492, guid: 7d3a5de715aea6d4e92f87935c52f4e9,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8715761202922276492, guid: 7d3a5de715aea6d4e92f87935c52f4e9,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8715761202922276492, guid: 7d3a5de715aea6d4e92f87935c52f4e9,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8715761202922276492, guid: 7d3a5de715aea6d4e92f87935c52f4e9,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8715761202922276492, guid: 7d3a5de715aea6d4e92f87935c52f4e9,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8715761202922276492, guid: 7d3a5de715aea6d4e92f87935c52f4e9,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 8715761202922276492, guid: 7d3a5de715aea6d4e92f87935c52f4e9,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8715761202922276492, guid: 7d3a5de715aea6d4e92f87935c52f4e9,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8715761202922276492, guid: 7d3a5de715aea6d4e92f87935c52f4e9,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7d3a5de715aea6d4e92f87935c52f4e9, type: 3}
+--- !u!1 &764153440565775543 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8715761202922773164, guid: 7d3a5de715aea6d4e92f87935c52f4e9,
+    type: 3}
+  m_PrefabInstance: {fileID: 8245610584234989083}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &764153440566202519 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8715761202922276492, guid: 7d3a5de715aea6d4e92f87935c52f4e9,
+    type: 3}
+  m_PrefabInstance: {fileID: 8245610584234989083}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &8371361518538433059
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 7890610655833993449}
+    m_Modifications:
+    - target: {fileID: 5341763108638836197, guid: 582286a6b8e80c648957c2195fb48770,
+        type: 3}
+      propertyPath: m_Name
+      value: Faery Wave Side TwoLine 1 (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5341763108638808517, guid: 582286a6b8e80c648957c2195fb48770,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -330
+      objectReference: {fileID: 0}
+    - target: {fileID: 5341763108638808517, guid: 582286a6b8e80c648957c2195fb48770,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 811
+      objectReference: {fileID: 0}
+    - target: {fileID: 5341763108638808517, guid: 582286a6b8e80c648957c2195fb48770,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5341763108638808517, guid: 582286a6b8e80c648957c2195fb48770,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5341763108638808517, guid: 582286a6b8e80c648957c2195fb48770,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5341763108638808517, guid: 582286a6b8e80c648957c2195fb48770,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5341763108638808517, guid: 582286a6b8e80c648957c2195fb48770,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5341763108638808517, guid: 582286a6b8e80c648957c2195fb48770,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 16
+      objectReference: {fileID: 0}
+    - target: {fileID: 5341763108638808517, guid: 582286a6b8e80c648957c2195fb48770,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5341763108638808517, guid: 582286a6b8e80c648957c2195fb48770,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5341763108638808517, guid: 582286a6b8e80c648957c2195fb48770,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 582286a6b8e80c648957c2195fb48770, type: 3}
+--- !u!1 &4471174807377930182 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5341763108638836197, guid: 582286a6b8e80c648957c2195fb48770,
+    type: 3}
+  m_PrefabInstance: {fileID: 8371361518538433059}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &4471174807377443814 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5341763108638808517, guid: 582286a6b8e80c648957c2195fb48770,
+    type: 3}
+  m_PrefabInstance: {fileID: 8371361518538433059}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &8500616773044915375
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 7890610655833993449}
+    m_Modifications:
+    - target: {fileID: 5341763108638836197, guid: 582286a6b8e80c648957c2195fb48770,
+        type: 3}
+      propertyPath: m_Name
+      value: Faery Wave Side TwoLine 1 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5341763108638808517, guid: 582286a6b8e80c648957c2195fb48770,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -329
+      objectReference: {fileID: 0}
+    - target: {fileID: 5341763108638808517, guid: 582286a6b8e80c648957c2195fb48770,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 861
+      objectReference: {fileID: 0}
+    - target: {fileID: 5341763108638808517, guid: 582286a6b8e80c648957c2195fb48770,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5341763108638808517, guid: 582286a6b8e80c648957c2195fb48770,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5341763108638808517, guid: 582286a6b8e80c648957c2195fb48770,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5341763108638808517, guid: 582286a6b8e80c648957c2195fb48770,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5341763108638808517, guid: 582286a6b8e80c648957c2195fb48770,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5341763108638808517, guid: 582286a6b8e80c648957c2195fb48770,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 14
+      objectReference: {fileID: 0}
+    - target: {fileID: 5341763108638808517, guid: 582286a6b8e80c648957c2195fb48770,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5341763108638808517, guid: 582286a6b8e80c648957c2195fb48770,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5341763108638808517, guid: 582286a6b8e80c648957c2195fb48770,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 582286a6b8e80c648957c2195fb48770, type: 3}
+--- !u!1 &4600850144196659530 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5341763108638836197, guid: 582286a6b8e80c648957c2195fb48770,
+    type: 3}
+  m_PrefabInstance: {fileID: 8500616773044915375}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &4600850144196433258 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5341763108638808517, guid: 582286a6b8e80c648957c2195fb48770,
+    type: 3}
+  m_PrefabInstance: {fileID: 8500616773044915375}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &8763929292218358661
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 7890610655833993449}
+    m_Modifications:
+    - target: {fileID: 8715761202922773164, guid: 7d3a5de715aea6d4e92f87935c52f4e9,
+        type: 3}
+      propertyPath: m_Name
+      value: Faery Wave Side TwoLine Many 3 Variant (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8715761202922276492, guid: 7d3a5de715aea6d4e92f87935c52f4e9,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 85
+      objectReference: {fileID: 0}
+    - target: {fileID: 8715761202922276492, guid: 7d3a5de715aea6d4e92f87935c52f4e9,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 700
+      objectReference: {fileID: 0}
+    - target: {fileID: 8715761202922276492, guid: 7d3a5de715aea6d4e92f87935c52f4e9,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8715761202922276492, guid: 7d3a5de715aea6d4e92f87935c52f4e9,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8715761202922276492, guid: 7d3a5de715aea6d4e92f87935c52f4e9,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8715761202922276492, guid: 7d3a5de715aea6d4e92f87935c52f4e9,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8715761202922276492, guid: 7d3a5de715aea6d4e92f87935c52f4e9,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8715761202922276492, guid: 7d3a5de715aea6d4e92f87935c52f4e9,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 8715761202922276492, guid: 7d3a5de715aea6d4e92f87935c52f4e9,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8715761202922276492, guid: 7d3a5de715aea6d4e92f87935c52f4e9,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8715761202922276492, guid: 7d3a5de715aea6d4e92f87935c52f4e9,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7d3a5de715aea6d4e92f87935c52f4e9, type: 3}
+--- !u!1 &102212665791152425 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8715761202922773164, guid: 7d3a5de715aea6d4e92f87935c52f4e9,
+    type: 3}
+  m_PrefabInstance: {fileID: 8763929292218358661}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &102212665790733577 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8715761202922276492, guid: 7d3a5de715aea6d4e92f87935c52f4e9,
+    type: 3}
+  m_PrefabInstance: {fileID: 8763929292218358661}
+  m_PrefabAsset: {fileID: 0}

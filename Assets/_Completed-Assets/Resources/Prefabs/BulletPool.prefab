@@ -1,0 +1,94 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4726329323015412986
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4726329323015412984}
+  - component: {fileID: 4726329323015412985}
+  m_Layer: 0
+  m_Name: BulletPool
+  m_TagString: Pool
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4726329323015412984
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4726329323015412986}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 58.48375, y: -159.28374, z: -5.081089}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4726329323015412985
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4726329323015412986}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5734f8781b642d942b6f05ff4d55d70b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_initializePoolList:
+  - m_bulletPrefab: {fileID: 4785597483887276328, guid: 69d27ef4c56ec2647a258c9a6752229d,
+      type: 3}
+    m_initialPoolNum: 100
+  - m_bulletPrefab: {fileID: 3836967999107127809, guid: 1797077a2e7e09d43ae053bef6c09a89,
+      type: 3}
+    m_initialPoolNum: 100
+  - m_bulletPrefab: {fileID: 8335750059261503530, guid: 7a8f0d67310436846bd2931de203f3b3,
+      type: 3}
+    m_initialPoolNum: 5000
+  - m_bulletPrefab: {fileID: 8335750059261503530, guid: 60c2b9dfe0010bc46a3dc8ad2746a479,
+      type: 3}
+    m_initialPoolNum: 5000
+  - m_bulletPrefab: {fileID: 5680708484435040025, guid: c63f4b86e0d92674e9389f8e33929a0f,
+      type: 3}
+    m_initialPoolNum: 1000
+  - m_bulletPrefab: {fileID: 1013443799619063828, guid: 57205bc202f2b974a860ca529fb75d19,
+      type: 3}
+    m_initialPoolNum: 1000
+  - m_bulletPrefab: {fileID: 3991202061420502133, guid: fa8717f9b72a551439a00d5b08db1124,
+      type: 3}
+    m_initialPoolNum: 1000
+  - m_bulletPrefab: {fileID: 8572370320657478865, guid: 0dabdab3f49f082449cba2d7aca3a9d4,
+      type: 3}
+    m_initialPoolNum: 1000
+  - m_bulletPrefab: {fileID: 953900594065069937, guid: eb4cd28328244444089cab2a8aa5122b,
+      type: 3}
+    m_initialPoolNum: 1000
+  - m_bulletPrefab: {fileID: 4513458739540825827, guid: 5ede06519cfb98c45a10dcb07aa8d01c,
+      type: 3}
+    m_initialPoolNum: 1000
+  - m_bulletPrefab: {fileID: 5450002310349520684, guid: 5fcc927801170004d928c72bf249a31d,
+      type: 3}
+    m_initialPoolNum: 1000
+  - m_bulletPrefab: {fileID: 5450002310349520684, guid: 5fcc927801170004d928c72bf249a31d,
+      type: 3}
+    m_initialPoolNum: 1000
+  - m_bulletPrefab: {fileID: 7595041821603646471, guid: 9c0ad8f940557234bac8d1a8485006b7,
+      type: 3}
+    m_initialPoolNum: 1000
+  - m_bulletPrefab: {fileID: 4785597483887276328, guid: 69d27ef4c56ec2647a258c9a6752229d,
+      type: 3}
+    m_initialPoolNum: 1000
+  - m_bulletPrefab: {fileID: 3836967999107127809, guid: 1797077a2e7e09d43ae053bef6c09a89,
+      type: 3}
+    m_initialPoolNum: 1000
+  - m_bulletPrefab: {fileID: 210718883220310466, guid: 87e27d83073535a41ad2cceaccad49b7,
+      type: 3}
+    m_initialPoolNum: 1000

@@ -1,0 +1,86 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7538770563145402810
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7538770563145402809}
+  - component: {fileID: 5990171457848504176}
+  - component: {fileID: 1483608970769856477}
+  m_Layer: 0
+  m_Name: PlayerManager
+  m_TagString: PlayerManager
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7538770563145402809
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7538770563145402810}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5990171457848504176
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7538770563145402810}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b4558e1996857f847ba9c6f854902458, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  players:
+  - {fileID: 100000, guid: 9464abb12d8cd4f7fbe0bdef70a00d0c, type: 3}
+  - {fileID: 5129008915368031568, guid: eab38177389024a4a9a3a2eceb34aa67, type: 3}
+  - {fileID: 6762132375457050630, guid: 710326a93e32321449c89f42952dd529, type: 3}
+  - {fileID: 6762132375457050630, guid: fd09d56e5039ae04aae9e66e830c7e7f, type: 3}
+  charismaBorders: a861000050c30000a0860100
+  nowPlayerIndex: 0
+  canBomb: 1
+  initPlayerNum: 3
+  initBombNum: 3
+  levelUpLayerPrefab: {fileID: 7492126888980552730, guid: 3a5d6fbbe48c6e84e9aa0aa4572d2055,
+    type: 3}
+  pointUpSourcePrefab: {fileID: 5955270429584276713, guid: f4d96d1335063b443a99738956ed55dd,
+    type: 3}
+  levelUpSourcePrefab: {fileID: 5240249102220976709, guid: 2ce8a4fdd4c050d42981511f3636768d,
+    type: 3}
+  cutIns:
+  - {fileID: 262148343462986089, guid: 908cf7788f47d5848bd0764af66e2c88, type: 3}
+  - {fileID: 6032171351282950739, guid: e34451f999c21ee4ab9c2aaad0237862, type: 3}
+  - {fileID: 5478232573381031819, guid: 0a5cea2cde7fc2e42bf2a07e775e5211, type: 3}
+  - {fileID: 5478232573381031819, guid: c49e4306ade86164bb226e5aa81a56c1, type: 3}
+  levelUpCutIns:
+  - {fileID: 6032171351282950739, guid: a6671a5f79cbb124a8dd9393f5e9e5f4, type: 3}
+  - {fileID: 5478232573381031819, guid: fac61c1519fc53b4da07774c2faab6cf, type: 3}
+  - {fileID: 5478232573381031819, guid: 5112202e4e2dab948aa893f0946880ce, type: 3}
+--- !u!114 &1483608970769856477
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7538770563145402810}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 73a6b7e77105b8240a07870aab8205f1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  fCount: 0
+  gCount: 0
+  invincibleMode: 0
