@@ -6,6 +6,10 @@
 
 レミリアがカリスマを取り戻すために頑張るゲームです。　　
 
+<img src="https://user-images.githubusercontent.com/36734151/230701519-ae6f47af-2469-475e-8a71-2bffcde00848.jpeg" width="400px" />
+<img src="https://user-images.githubusercontent.com/36734151/230701522-0e012ce7-1014-40fc-8249-90080e1ed299.jpeg" width="400px" />
+<img src="https://user-images.githubusercontent.com/36734151/230701527-b8201c90-ac12-4931-99c0-6861bae4ddd1.jpeg" width="400px" />
+
 ■イントール方法　　
 
 フォルダごとお使いのパソコンにコピーしてください。
