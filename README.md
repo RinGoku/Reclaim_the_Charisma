@@ -1,3 +1,6 @@
+## 注意
+このリポジトリはソースコード公開用なので、このリポジトリを落としてもUnityではビルドできません。
+
 ## 販売ページ
 https://ringoku98.thebase.in/items/24584354
 
@@ -83,6 +86,3 @@ https://twitter.com/RinGoku98<br>
 2019年5月5日　Ver1.00を公開<br>
 2019年10月29日 Ver2.0.1を公開<br>
 
-
-※[UniBulletHell](https://assetstore.unity.com/packages/tools/integration/uni-bullet-hell-19088?locale=ja-JP) は有料アセットであり、このリポジトリには含まれてません。
-このリポジトリをチェックアウトして動かすにはUniBulletHellをAssetフォルダに入れる必要があります
