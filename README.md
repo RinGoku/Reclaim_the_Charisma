@@ -1,5 +1,7 @@
-カリスマを取り戻せ　説明書
+## 販売ページ
+https://ringoku98.thebase.in/items/24584354
 
+## 「カリスマを取り戻せ」　説明書
 (C)2019 Hello World!
 
 ■このゲームについて
