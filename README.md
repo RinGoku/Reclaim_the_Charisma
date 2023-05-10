@@ -66,7 +66,7 @@ A.作者アカウントまでご連絡いただければ幸いです...<br>
 
 Twitterアカウント
 
-https://twitter.com/RinGoku98<br>
+https://twitter.com/skyt_a<br>
 
 ■注意事項など
 
